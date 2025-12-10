@@ -1,0 +1,48 @@
+body{
+  
+  background: url("https://www.ibackdrop.com/cdn/shop/products/GreenPhotographyBackgroundAbstractTexturedBackdropIBD-201207.jpg?v=1605693456");
+  background-size:cover;
+  text-align:center;
+  
+}
+
+h1{
+  color:goldenrod;
+  font-size:50px;
+  margin-top:20px;
+  text-shadow:0px 0px 3px black;
+  
+}
+
+#message-el{
+  font-size:40px;
+  margin-top:50px;
+  font-style: italic;
+}
+
+p{
+  font-size:30px;
+  color:white;
+  font-weight:bold;
+}
+
+button{
+  width:200px;
+  padding:20px;
+  color:#016f32;
+  font-weight:bold;
+  font-size:20px;
+  background:goldenrod;
+  margin-top:20px;
+  
+}
+
+button:hover{
+    background-color:burlywood;
+}
+
+#card-img{
+  width: 200px;
+  height: 300px;
+  
+}
